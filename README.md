@@ -1,5 +1,3 @@
-'# FastAPI + QR Code
-
 ## Pré requisitos
 
 Crie e habilite um ambiente python

@@ -16,8 +16,7 @@ def diretorio():
     """
     # Obtem o caminho absoluto para o diretório home do usuário atual
     home = Path.home()
-    path = Path(home, 'Documents', 'AGTEC',
-                'Python', 'qr-code-fastapi', 'qr-codes')
+    path = Path(home, 'Diretório de qr-codes gerados')
     return path
 
 
